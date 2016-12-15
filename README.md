@@ -48,6 +48,9 @@ Here is how it would work.
    process would run.  Your build process would then execute the script on the target
    database server for each environment.
 
+Browse and read the sample scripts in the 1.0 and 1.1 folders and files and 
+run the RUN_CreateUpdateScript.bat file in each to see it how it works.
+
 ## Why do it this way?
 
 This approach assures that your sql object scripts only live in one place and are only 
